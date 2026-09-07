@@ -1,0 +1,4 @@
+Ett informationssystem är något som samlar in, lagrar, bearbetar och visar information så att man kan använda den. Det funkar som en team, tycker jag och de fem delarna är hårdvara( de fysiska delar: dator, server och mobile), mjukvara(appar och program), data(siffror, text, bilder och allt råmaterial), processer( hur systemet ska fungera.) och själva användare.
+En systemutvecklare är en person som försöker förstå problemet genom att lyssna på andra och bygga lösningar genom att förklara tekniska saker på ett enkelt sätt och skriva kod som andra kan läsa och fungerar i verkligheten.
+Data är små bitar  som siffror, ord eller en bild. Information är något som en mening som har något betydelse och kunskap är att förstå informationen för att göra något.
+
