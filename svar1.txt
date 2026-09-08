@@ -1,0 +1,10 @@
+1.Beskriv skillnaden mellan vattenfallsmodellen och agil metodik.
+När bör man använda vilken, och varför?
+Vattenfallsmodellen är en klassikmetod där man arbetar steg för steg. För att gå till andra steg måste man blir klar med första steg.
+För exempel :
+1.vad gör den produkten  2. hur ska se ut och fungera 3, programmera och bygga 4. Testa och letar efter fel 5. fixar fel och uppdateringar
+I vattenfallsmodellen planerar man mest av projekten från början och därför är det svårt att ändra senare. Kostnad och tid är också är 
+Agil metodik
+Agil metodik är en flexibel metod dar man arbetar i mindre delar. Projektet delas upp i korta perioder som kallas sprintar, ofta 2-4 veckor.
+Efter varje sprint ska teamet ha skapat en fungerade del av produkten. Under perioden kan kunden ge feedback.
+Om kunden behov eller marknaden förändras kan teamet ändra planen och anpassa arbetet.
